@@ -1,12 +1,27 @@
 *{
     padding: 0px; 
     margin: 0px;
+
 }
 header {
-    background-image: url(campo.png); 
+     
+    background-image: url(campo.jpg); 
     background-repeat: no-repeat;
 }
 
-body {
+main {
+    font-family: 'aliens and cows', sans-serif;
+}
 
+h2 {
+    font-family: 'aliens and cows', sans-serif;
+}
+
+body{
+    background-color: #D8D8C6;
+}
+
+.qual-importancia{
+    display: grid;
+     grid-template-columns: 200px 200px;
 }
