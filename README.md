@@ -1,1 +1,3 @@
-# agrinhoo
+# agrinho
+   O site feito para o concurso do agrinho com o tema:"do campo à cidade: colhendo oportunidades" é uma curta fonte de informações sobre oque é a agronomia, sendo dividido em tópicos, sendos estes: O que é Agronomia?; Quem trabalha na área da agronomia?; qual a importância da agronomia para o brasil?; O campo e a cidade e qual é mais importante? Todos os cards respondendo esses tópicos são funcionais, no caso, possuem uma sutil animação ao passar o mouse por cima.
+   Usei algumas imagens que representassem o assunto abordado, Além dos elementos que remetem a área rural, como por exemplo, a paleta de cores escolhida. O tema foi abordado de uma forma que tentasse mostrar ao leitor que o campo e a cidade(rural e urbana) não existem um sem o outro e que deveríamos valoriza-los.
