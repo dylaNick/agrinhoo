@@ -13,15 +13,20 @@ main {
     font-family: 'aliens and cows', sans-serif;
 }
 
-h2 {
+h2 ,
+h1{
     font-family: 'aliens and cows', sans-serif;
 }
 
 body{
-    background-color: #D8D8C6;
+    background-color:  #D8D8C6;
 }
 
-.qual-importancia{
-    display: grid;
-     grid-template-columns: 200px 200px;
+
+h4{
+    font-family: 'Aleo', sans-serif;                                      
+}
+
+h3{
+    font-family: 'League Spartan', sans-serif;
 }
