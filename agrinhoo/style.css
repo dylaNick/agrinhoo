@@ -1,0 +1,34 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+header {
+  background-image: url(campo.jpg);
+  background-repeat: no-repeat;
+}
+
+main {
+  font-family: "aliens and cows", sans-serif;
+}
+
+h2,
+h1 {
+  font-family: "aliens and cows", sans-serif;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+.font-aleo {
+  font-family: "Aleo", sans-serif;
+}
+
+.font-league-gothic {
+  font-family: "League Gothic", sans;
+}
